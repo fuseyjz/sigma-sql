@@ -7,7 +7,7 @@ This is applicable if you have any system that uses SQL and wish to apply rules 
 
 ## Note:
 * Aggregations not implemented for this backend.
-* This is still a beta and will be contributing to this parser when I have more use-cases that required additional formatting.
+* This is still a beta and will continue to contribute to this parser when there are more use-cases that required additional formatting.
 * The converted output should be piped to the `WHERE` condition.
 
 ## Examples:
