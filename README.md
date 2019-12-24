@@ -12,7 +12,7 @@ This is applicable if you have any system that uses SQL and wish to apply rules 
 
 ## Examples:
 
-1) Sigma rule with multiple OR conditions with asterisk `*`
+1) Sigma rule with multiple `OR` conditions with asterisk `*`
 
 ```
 title: Rundll32 Internet Connection
