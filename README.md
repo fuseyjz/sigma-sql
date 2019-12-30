@@ -3,6 +3,8 @@ Documentation for usage of Sigma SQL format
 
 https://github.com/Neo23x0/sigma
 
+PR: https://github.com/Neo23x0/sigma/pull/573
+
 This is applicable if you have any system that uses SQL and wish to apply rules on it for filtering.
 
 ## Note:
